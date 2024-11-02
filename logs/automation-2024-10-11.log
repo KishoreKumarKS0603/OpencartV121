@@ -1,0 +1,541 @@
+2024-09-21 15:45:34 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-09-21 15:45:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-21 15:45:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 24 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\AppData\Local\Temp\testng-eclipse-1351491449\testng-customsuite.xml
+
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@493dfb8e: 430 ms
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@71104a4: 34 ms
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@209775a9: 31 ms
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@11acdc30: 17 ms
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@74bdc168: 16 ms
+2024-09-21 15:45:59 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@644c78d4: 0 ms
+2024-09-21 15:46:56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\crossbrowseTesting.xml
+
+2024-09-21 16:21:41 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-09-21 18:33:32 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-09-21 18:33:54 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest*********
+2024-09-21 18:33:54 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2024-09-21 18:34:01 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2024-09-21 18:34:01 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Custome Details
+2024-09-21 18:34:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+2024-09-21 18:39:03 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-09-21 18:39:16 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest*********
+2024-09-21 18:39:16 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2024-09-21 18:39:18 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2024-09-21 18:39:18 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Custome Details
+2024-09-21 18:39:26 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+2024-09-22 09:52:37 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\crossbrowseTesting.xml
+
+2024-09-22 09:53:30 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest*********
+2024-09-22 09:53:30 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2024-09-22 09:53:32 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest*********
+2024-09-22 09:53:35 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2024-09-22 09:53:35 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing Custome Details
+2024-09-22 09:53:35 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2024-09-22 09:53:38 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2024-09-22 09:53:38 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing Custome Details
+2024-09-22 09:53:40 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+2024-09-22 09:53:42 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+2024-09-22 09:57:59 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\crossbrowseTesting.xml
+
+2024-09-22 09:58:10 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest*********
+2024-09-22 09:58:10 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2024-09-22 09:58:12 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2024-09-22 09:58:12 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing Custome Details
+2024-09-22 09:58:15 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+2024-09-22 09:58:20 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest*********
+2024-09-22 09:58:21 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2024-09-22 09:58:23 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2024-09-22 09:58:23 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing Custome Details
+2024-09-22 09:58:25 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+2024-09-22 12:52:47 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-09-22 12:53:09 [main] INFO  testCases.TC002_LoginTest - ******Starting TC_002_LoginTest******
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\AppData\Local\Temp\testng-eclipse-1203377186\testng-customsuite.xml
+
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2024-09-22 12:54:15 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@493dfb8e: 234 ms
+2024-09-22 12:54:16 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@71104a4: 52 ms
+2024-09-22 12:54:16 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@209775a9: 22 ms
+2024-09-22 12:54:16 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@11acdc30: 13 ms
+2024-09-22 12:54:16 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@644c78d4: 12 ms
+2024-09-22 12:54:16 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@532a02d9: 0 ms
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\AppData\Local\Temp\testng-eclipse--311132402\testng-customsuite.xml
+
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2f162cc0: 288 ms
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@332a7fce: 42 ms
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6fefce9e: 24 ms
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@76a82f33: 22 ms
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7bb3a9fe: 9 ms
+2024-09-22 12:54:45 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7cbee484: 1 ms
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 20 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\AppData\Local\Temp\testng-eclipse-575252443\testng-customsuite.xml
+
+2024-09-22 12:55:58 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2024-09-22 12:55:59 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@493dfb8e: 201 ms
+2024-09-22 12:55:59 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@71104a4: 27 ms
+2024-09-22 12:55:59 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@209775a9: 33 ms
+2024-09-22 12:55:59 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@11acdc30: 47 ms
+2024-09-22 12:55:59 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@644c78d4: 11 ms
+2024-09-22 12:55:59 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@532a02d9: 0 ms
+2024-09-22 12:58:32 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-09-22 12:58:41 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest*********
+2024-09-22 12:58:42 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2024-09-22 12:58:43 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2024-09-22 12:58:43 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Custome Details
+2024-09-22 12:58:45 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+2024-09-22 12:59:24 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-09-22 12:59:34 [main] INFO  testCases.TC002_LoginTest - ******Starting TC_002_LoginTest******
+2024-09-22 13:13:04 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-09-22 13:13:13 [main] INFO  testCases.TC002_LoginTest - ******Starting TC_002_LoginTest******
+2024-09-22 13:13:13 [main] INFO  testCases.TC002_LoginTest - Step1
+2024-09-22 13:34:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\crossbrowseTesting.xml
+
+2024-09-22 13:34:18 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest*********
+2024-09-22 13:34:19 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2024-09-22 13:34:21 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2024-09-22 13:34:21 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing Custome Details
+2024-09-22 13:34:23 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+2024-09-22 13:34:43 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-09-22 13:35:02 [main] INFO  testCases.TC002_LoginTest - ******Starting TC_002_LoginTest******
+2024-09-22 13:35:02 [main] INFO  testCases.TC002_LoginTest - Step1
+2024-09-22 13:35:04 [main] INFO  testCases.TC002_LoginTest - Step2
+2024-09-22 13:35:04 [main] INFO  testCases.TC002_LoginTest - Step3
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 30 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\AppData\Local\Temp\testng-eclipse--706438686\testng-customsuite.xml
+
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2f162cc0: 194 ms
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@332a7fce: 45 ms
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6fefce9e: 21 ms
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@76a82f33: 38 ms
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7cbee484: 9 ms
+2024-09-22 13:48:38 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7f811d00: 0 ms
+2024-09-22 13:48:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-09-22 13:49:04 [main] INFO  testCases.TC002_LoginTest - ******Starting TC_002_LoginTest******
+2024-09-22 13:49:04 [main] INFO  testCases.TC002_LoginTest - Step1
+2024-09-22 13:49:05 [main] INFO  testCases.TC002_LoginTest - Step2
+2024-09-22 13:49:05 [main] INFO  testCases.TC002_LoginTest - Step3
+2024-09-22 13:49:05 [main] INFO  testCases.TC002_LoginTest - Step4
+2024-09-22 13:49:07 [main] INFO  testCases.TC002_LoginTest - ******Fineshed TC_002_LoginTest******
+2024-09-28 10:04:32 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-09-28 10:18:32 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-09-28 10:21:46 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-09-28 10:37:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-09-28 10:43:55 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-09-28 10:58:38 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 22 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\AppData\Local\Temp\testng-eclipse-2107478111\testng-customsuite.xml
+
+2024-09-28 10:59:27 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 14 ms.
+2024-09-28 10:59:28 [main] ERROR org.testng.internal.Utils - [Error] java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+	at utilities.DataProviders.getData(DataProviders.java:25)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodNoCheckedException(MethodInvocationHelper.java:54)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeDataProvider(MethodInvocationHelper.java:159)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:809)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:946)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+
+2024-09-28 10:59:29 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5ce4369b: 207 ms
+2024-09-28 10:59:29 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4cbf4f53: 126 ms
+2024-09-28 10:59:29 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@ea9e141: 32 ms
+2024-09-28 10:59:29 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@76d05cc9: 58 ms
+2024-09-28 10:59:29 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@cc239ba: 13 ms
+2024-09-28 10:59:29 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7d37f1c: 0 ms
+2024-09-28 11:07:55 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-09-28 11:48:18 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-09-28 11:48:44 [main] INFO  testCases.TC002_LoginTest - ******Starting TC_002_LoginTest******
+2024-09-28 11:49:02 [main] INFO  testCases.TC002_LoginTest - ******Fineshed TC_002_LoginTest******
+2024-09-28 12:00:27 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-09-28 12:02:48 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-09-28 12:02:59 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-09-28 12:10:32 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-09-28 17:32:24 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-09-28 17:34:33 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-09-28 17:35:08 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-09-28 17:35:22 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-09-28 17:35:34 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-09-28 17:35:47 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-09-28 17:37:38 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-09-28 17:40:37 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-09-28 17:40:51 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-09-28 17:41:03 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-09-28 17:41:14 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-09-28 17:41:46 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-09-28 17:41:57 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-09-28 17:42:10 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-09-28 17:42:22 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-09-28 17:42:34 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-09-28 17:44:16 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-09-28 17:44:26 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-09-28 17:44:34 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-09-28 17:44:47 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-09-28 17:44:59 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-09-29 11:16:55 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\grouping.xml
+
+2024-09-29 11:17:21 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest*********
+2024-09-29 11:17:21 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2024-09-29 11:17:25 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2024-09-29 11:17:25 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Custome Details
+2024-09-29 11:17:27 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+2024-09-29 11:17:53 [main] INFO  testCases.TC002_LoginTest - ******Starting TC_002_LoginTest******
+2024-09-29 11:17:58 [main] INFO  testCases.TC002_LoginTest - ******Fineshed TC_002_LoginTest******
+2024-10-06 16:33:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\grouping.xml
+
+2024-10-06 16:34:21 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest*********
+2024-10-06 16:34:22 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2024-10-06 16:34:29 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2024-10-06 16:34:29 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Custome Details
+2024-10-06 16:34:33 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+2024-10-06 16:34:59 [main] INFO  testCases.TC002_LoginTest - ******Starting TC_002_LoginTest******
+2024-10-06 16:35:06 [main] INFO  testCases.TC002_LoginTest - ******Fineshed TC_002_LoginTest******
+2024-10-06 16:37:39 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\grouping.xml
+
+2024-10-06 16:37:49 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest*********
+2024-10-06 16:37:49 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2024-10-06 16:37:51 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2024-10-06 16:37:51 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Custome Details
+2024-10-06 16:37:53 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+2024-10-06 16:38:14 [main] INFO  testCases.TC002_LoginTest - ******Starting TC_002_LoginTest******
+2024-10-06 16:38:18 [main] INFO  testCases.TC002_LoginTest - ******Fineshed TC_002_LoginTest******
+2024-10-06 16:46:47 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-06 16:47:07 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-10-06 16:47:14 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-10-06 16:47:27 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-10-06 16:47:40 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-10-10 07:36:12 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-10 07:37:11 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-10-10 07:37:21 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-10-10 07:37:39 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-10-10 07:37:52 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-10-11 02:25:46 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-11 02:26:37 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-10-11 02:26:44 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-10-11 02:26:57 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-10-11 02:27:09 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-10-11 02:28:50 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-11 02:28:52 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-10-11 02:33:14 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-11 02:33:16 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-10-11 02:35:19 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-11 02:35:21 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-10-11 02:36:56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-11 02:38:18 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-11 02:41:00 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-11 02:49:09 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-11 02:50:03 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-11 02:53:32 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-11 02:56:36 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-11 02:59:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-11 09:07:31 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-11 12:58:51 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-11 13:04:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-10-11 13:04:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-10-11 13:04:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-11 13:04:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-11 13:04:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-11 13:04:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-11 13:04:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-11 13:04:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-11 13:04:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-10-11 13:04:43 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 20 ms.

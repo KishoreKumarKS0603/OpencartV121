@@ -1,0 +1,6 @@
+2024-09-20 23:24:44 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@39651a82: 143 ms
+2024-09-20 23:24:44 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6c796cc1: 24 ms
+2024-09-20 23:24:44 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@422b8438: 29 ms
+2024-09-20 23:24:44 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@bdd2027: 19 ms
+2024-09-20 23:24:44 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@69e05f61: 10 ms
+2024-09-20 23:24:44 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@49a26d19: 1 ms

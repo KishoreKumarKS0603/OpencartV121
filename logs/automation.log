@@ -1,0 +1,49 @@
+2024-10-12 15:59:07 [main] INFO  testCases.TC002_LoginTest - ******Starting TC_002_LoginTest******
+2024-10-12 15:59:12 [main] INFO  testCases.TC002_LoginTest - ******Fineshed TC_002_LoginTest******
+2024-10-12 16:01:35 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\grouping.xml
+
+2024-10-12 16:01:48 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest*********
+2024-10-12 16:01:48 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2024-10-12 16:01:50 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2024-10-12 16:01:50 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Custome Details
+2024-10-12 16:01:52 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+2024-10-12 16:02:16 [main] INFO  testCases.TC002_LoginTest - ******Starting TC_002_LoginTest******
+2024-10-12 16:02:20 [main] INFO  testCases.TC002_LoginTest - ******Fineshed TC_002_LoginTest******
+2024-10-12 16:03:44 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\grouping.xml
+
+2024-10-12 16:03:54 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest*********
+2024-10-12 16:03:54 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2024-10-12 16:03:56 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2024-10-12 16:03:56 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Custome Details
+2024-10-12 16:03:59 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+2024-10-12 16:04:19 [main] INFO  testCases.TC002_LoginTest - ******Starting TC_002_LoginTest******
+2024-10-12 16:04:23 [main] INFO  testCases.TC002_LoginTest - ******Fineshed TC_002_LoginTest******
+2024-10-12 16:05:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-12 16:05:43 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-10-12 16:05:50 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-10-12 16:06:03 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-10-12 16:06:15 [main] INFO  testCases.TC003_loginDDT - ******Starting TC003_loginDDT******
+2024-10-12 16:06:33 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\grouping.xml
+
+2024-10-12 16:06:48 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest*********
+2024-10-12 16:06:49 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2024-10-12 16:06:50 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2024-10-12 16:06:50 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Custome Details
+2024-10-12 16:06:53 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+2024-10-12 16:07:17 [main] INFO  testCases.TC002_LoginTest - ******Starting TC_002_LoginTest******
+2024-10-12 16:07:21 [main] INFO  testCases.TC002_LoginTest - ******Fineshed TC_002_LoginTest******
+2024-10-12 16:08:03 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SYS\eclipse-workspace\OpencartV121\grouping.xml
+
+2024-10-12 16:08:14 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest*********
+2024-10-12 16:08:14 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2024-10-12 16:08:16 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2024-10-12 16:08:16 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Custome Details
+2024-10-12 16:08:17 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+2024-10-12 16:08:39 [main] INFO  testCases.TC002_LoginTest - ******Starting TC_002_LoginTest******
+2024-10-12 16:08:45 [main] INFO  testCases.TC002_LoginTest - ******Fineshed TC_002_LoginTest******
